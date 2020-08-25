@@ -1,0 +1,9 @@
+C:\Users\Thinkpad\source\repos\Library\LibraryData\bin\Debug\netstandard2.0\LibraryData.deps.json
+C:\Users\Thinkpad\source\repos\Library\LibraryData\bin\Debug\netstandard2.0\LibraryData.dll
+C:\Users\Thinkpad\source\repos\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.csprojAssemblyReference.cache
+C:\Users\Thinkpad\source\repos\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\source\repos\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.AssemblyInfo.cs
+C:\Users\Thinkpad\source\repos\Library\LibraryData\bin\Debug\netstandard2.0\LibraryData.pdb
+C:\Users\Thinkpad\source\repos\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\source\repos\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.dll
+C:\Users\Thinkpad\source\repos\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.pdb

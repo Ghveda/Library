@@ -1,0 +1,12 @@
+C:\Users\Thinkpad\source\repos\Library\LibraryServices\bin\Debug\netstandard2.0\LibraryServices.deps.json
+C:\Users\Thinkpad\source\repos\Library\LibraryServices\bin\Debug\netstandard2.0\LibraryServices.dll
+C:\Users\Thinkpad\source\repos\Library\LibraryServices\bin\Debug\netstandard2.0\LibraryServices.pdb
+C:\Users\Thinkpad\source\repos\Library\LibraryServices\bin\Debug\netstandard2.0\LibraryData.dll
+C:\Users\Thinkpad\source\repos\Library\LibraryServices\bin\Debug\netstandard2.0\LibraryData.pdb
+C:\Users\Thinkpad\source\repos\Library\LibraryServices\obj\Debug\netstandard2.0\LibraryServices.csprojAssemblyReference.cache
+C:\Users\Thinkpad\source\repos\Library\LibraryServices\obj\Debug\netstandard2.0\LibraryServices.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\source\repos\Library\LibraryServices\obj\Debug\netstandard2.0\LibraryServices.AssemblyInfo.cs
+C:\Users\Thinkpad\source\repos\Library\LibraryServices\obj\Debug\netstandard2.0\LibraryServices.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\source\repos\Library\LibraryServices\obj\Debug\netstandard2.0\LibraryServices.csproj.CopyComplete
+C:\Users\Thinkpad\source\repos\Library\LibraryServices\obj\Debug\netstandard2.0\LibraryServices.dll
+C:\Users\Thinkpad\source\repos\Library\LibraryServices\obj\Debug\netstandard2.0\LibraryServices.pdb
